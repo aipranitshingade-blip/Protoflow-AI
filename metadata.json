@@ -1,0 +1,6 @@
+{
+  "name": "ProtoFlow AI",
+  "description": "AI-powered product prototyping platform: AI handles implementation, human controls design and product flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
